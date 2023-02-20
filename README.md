@@ -10,4 +10,4 @@ Simple shell script bot to send notifications to a Telegram Channel.
 ## How To
 1. Get the script `gz-notifications.sh`.
 2. Set a variable named `GZ_TG_TOKEN` in your local environment.
-3. Call the script passing the `chat id` and the message you want to run. For example ./gz-notifications.sh -123456 "This is a test!"
+3. Call the script passing the `chat id` and the message you want to run. For example `./gz-notifications.sh -123456 "This is a test!"`
