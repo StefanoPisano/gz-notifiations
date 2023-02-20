@@ -5,7 +5,7 @@ Simple shell script bot to send notifications to a Telegram Channel.
 ## Prerequisites
 1. Create your personal bot (Check https://core.telegram.org/bots/tutorial).
 2. Annotate the bot Token.
-3. Add the bot in some chat and get the CHAT ID. In order to do that, you can simply run `https://api.telegram.org/botXXX:YYYYY/getUpdates`, this will return a JSON containing the id of the chat. You need to replace XXX with the bot token.
+3. Add the bot in some chat and get the CHAT ID. In order to do that, you can simply run `https://api.telegram.org/botXXX:YYYYY/getUpdates`, this will return a JSON containing the id of the chat. You need to replace `XXX:YYYYY` with the bot token.
 
 ## How To
 1. Get the script `gz-notifications.sh`.
