@@ -1,4 +1,4 @@
-# gz-notifiations
+# gz-notifications
 Simple shell script bot to send notifications to a Telegram Channel.
 
 
